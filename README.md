@@ -3,4 +3,4 @@
 
 - think of this as an example of how to use Python for signal processing and control systems analysis. If you run this script, it should display the Bode plot for the defined system.
 
-- in case you want to review https://www.youtube.com/watch?v=Ty5BgpH1mMk
+- in case you want to review --> https://www.youtube.com/watch?v=Ty5BgpH1mMk by [Youtube]Electrical Engineering Academy
